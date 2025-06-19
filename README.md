@@ -24,7 +24,7 @@ Screenshots
 > [Database Page](screentshots/database.jpg)
 
 ---
-Setup Instructions
+Setup Instructions:
 1.Install Dependencies:
    pip install django
 
