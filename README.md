@@ -19,10 +19,10 @@ Features:
 
 Tech Stack:
 
-Backend      : Django (Python)
-Frontend     : HTML, CSS, Bootstrap
-Database     : SQLite
-Other Tools  : Django Admin, Authentication, Forms
+-Backend      : Django (Python)
+-Frontend     : HTML, CSS, Bootstrap
+-Database     : SQLite
+-Other Tools  : Django Admin, Authentication, Forms
 
 ------------------------------------------------------------
 
