@@ -26,11 +26,11 @@ Other Tools  : Django Admin, Authentication, Forms
 
 ------------------------------------------------------------
 
-Screenshots:
+Screenshots 
 
-(Home Page)          screentshots/home.jpg
-(Appointment Page)   screentshots/appointments.jpg
-(Database Page)      screentshots/database.jpg
+> [Home Page](screentshots/home.jpg)  
+> [Appointment Page](screentshots/appointments.jpg)
+> [Database Page](screentshots/database.jpg)
 
 ------------------------------------------------------------
 
