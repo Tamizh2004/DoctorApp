@@ -28,9 +28,9 @@ Tech Stack:
 
 Screenshots 
 
-> [Home Page](screentshots/home.jpg)  
-> [Appointment Page](screentshots/appointments.jpg)
-> [Database Page](screentshots/database.jpg)
+- [Home Page](screentshots/home.jpg)  
+- [Appointment Page](screentshots/appointments.jpg)
+- [Database Page](screentshots/database.jpg)
 
 ------------------------------------------------------------
 
