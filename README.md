@@ -37,18 +37,18 @@ Screenshots
 Setup Instructions:
 
 1. Install Dependencies:
-   pip install django
+     - pip install django
 
 2. Run Migrations:
-   python manage.py makemigrations
-   python manage.py migrate
+     - python manage.py makemigrations
+     - python manage.py migrate
 
 3. Start the Development Server:
-   python manage.py runserver
+    - python manage.py runserver
 
 4. Admin Access:
-   python manage.py createsuperuser
-   Then login at: http://127.0.0.1:8000/admin/
+    - python manage.py createsuperuser
+    - Then login at: http://127.0.0.1:8000/admin/
 
 ------------------------------------------------------------
 
