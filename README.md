@@ -19,9 +19,9 @@ Tech Stack
 
 ---
 Screenshots 
-> [Home Page](screenshots/home.jpg)  
-> [Appointment Page](screenshots/appointments.jpg)
-> [Database Page](screenshots/database.jpg)
+> [Home Page](screentshots/home.jpg)  
+> [Appointment Page](screentshots/appointments.jpg)
+> [Database Page](screentshots/database.jpg)
 
 ---
 Setup Instructions
